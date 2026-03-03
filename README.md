@@ -27,13 +27,11 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 ### 📂 GitHub Repo Link:  
 [**ZOMATO Clone DevOps Project**](#)
 
-### 📹 DevOps Project Video Link:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/GyoI6-I68aQ)
 
 
 
 ## Connect with me on LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/dondapati-pavan-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dondapati-pavan-kumar/)
 
 
 
